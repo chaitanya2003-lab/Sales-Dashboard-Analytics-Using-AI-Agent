@@ -1,0 +1,11 @@
+order_id,order_line,customer_id,product_id,store_id,order_date,ship_date,quantity,line_total,promotion_code,order_channel,order_status,payment_method,card_network,card_type,salesperson_id,manager_id
+1001,1,1,1,1,2026-01-05,2026-01-08,1,999,SPRING10,Online,Delivered,Credit Card,Visa,Credit,1,4
+1001,2,1,3,1,2026-01-05,2026-01-08,1,119,,Online,Delivered,Credit Card,Visa,Credit,1,4
+1002,1,2,2,1,2026-01-12,2026-01-15,1,799,,Online,Delivered,PayPal,None,None,2,4
+1003,1,3,5,2,2026-02-03,2026-02-06,1,699,BLACKFRIDAY,Phone,Delivered,Credit Card,Mastercard,Credit,3,5
+1004,1,4,1,2,2026-02-18,2026-02-21,1,999,WELCOME5,Online,In Transit,Credit Card,Visa,Credit,4,4
+1005,1,,4,3,2026-03-09,2026-03-12,3,117,,In-Store,Delivered,Cash,None,None,7,5
+1006,1,2,2,1,2026-03-22,2026-03-25,1,799,,Phone,Returned,Debit Card,Mastercard,Debit,2,4
+1006,2,2,3,1,2026-03-22,2026-03-25,2,238,SPRING10,Phone,Returned,Debit Card,Mastercard,Debit,2,4
+1007,1,,5,3,2026-04-07,2026-04-10,1,699,,Online,In Transit,PayPal,None,None,4,4
+1008,1,3,4,2,2026-05-11,2026-05-14,2,78,,In-Store,Delivered,Credit Card,Mastercard,Credit,8,10

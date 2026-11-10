@@ -1,0 +1,21 @@
+product_id,product_name,family,unit_cost_eur
+VH-001,Juno S,City,13319
+VH-002,Juno SE,City,15660
+VH-006,Faro S,Core,18588
+VH-007,Faro SE,Core,21253
+VH-011,Selia SE,Core,28230
+VH-014,Torek SE,SUV,25028
+VH-015,Torek SL,SUV,28116
+VH-019,Narvik SE,SUV,41014
+VH-022,Velto S,Van,21755
+VH-024,Solen SE,SUV,33336
+VH-027,Nela S,Core,20014
+VH-028,Nela SE,Core,21582
+VH-029,Nela SL,Core,24242
+AC-001,Roof Bars,Accessories,
+AC-002,Floor Mats,Accessories,
+AC-003,Winter Wheels,Accessories,
+AC-004,Tow Bar,Accessories,
+SP-001,Care Plan 3y,Service,
+SP-002,Care Plan 5y,Service,
+TI-001,Trade-In,Trade-In,

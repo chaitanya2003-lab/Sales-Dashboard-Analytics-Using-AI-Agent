@@ -1,0 +1,12 @@
+customer_id,customer_name,customer_type,company_name,market
+C-101,Maria Lang,Private,,DE
+C-102,John Carter,Private,,DE
+C-103,Anna Nowak,Business,Fahrschule Nowak,DE
+C-104,Priya Sharma,Private,,DE
+C-105,Sofia Marin,Business,Marin Rent GmbH,DE
+C-106,Stefan Krüger,Private,,DE
+C-107,Julia Berger,Business,Berger Catering GmbH,DE
+C-108,Lukas Hoffmann,Private,,DE
+C-109,Hugo Marchand,Private,,FR
+C-110,Amélie Rey,Private,,FR
+C-199,Omar Haddad,Private,,DE
